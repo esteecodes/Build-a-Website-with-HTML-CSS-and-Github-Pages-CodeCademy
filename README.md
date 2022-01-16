@@ -1,4 +1,4 @@
-# CodeCademy - Build a Website with HTML CSS and Github Pages Skill Path
+# CodeCademy - Build a Website with HTML CSS and Github Pages <br> Skill Path
 
 ## CodeCademy Projects
 
