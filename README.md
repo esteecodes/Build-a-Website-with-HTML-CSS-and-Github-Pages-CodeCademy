@@ -1,6 +1,6 @@
-# CodeCademy - Build a Website with HTML CSS and Github Pages <br> Skill Path
+# CodeCademy - Build a Website with HTML CSS and Github Pages
 
-## CodeCademy Projects
+## Skill Path
 
 ### Here I am just adding some projects I worked on as part of my codecademy course.
 
