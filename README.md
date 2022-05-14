@@ -1,6 +1,6 @@
 <h1> Build a Website with HTML, CSS and Github Pages</h1><h3>Skill Path - CodeCademy</h3>
 
-<p> Here I am adding the projects that I completed <br> as part of my codecademy course - </p>
+<p> Here I am adding the projects that I completed <br> as part of my codecademy course - Jun 16, 2020</p>
 
 <h2><a href="https://esteecodes.github.io/bootstrap5-Hebrew-blog-rtl/" target="_blank">9. Colmar Academy</a></h2>
 <h3><a href="https://esteecodes.github.io/bootstrap5-Hebrew-blog-rtl/" target="_blank">8. Excursion Project</a></h3>
