@@ -2,19 +2,17 @@
 
 <p> Here I am adding the projects that I completed <br> as part of my codecademy course - Jun 16, 2020</p>
 
-<h2><a href="https://esteecodes.github.io/bootstrap5-Hebrew-blog-rtl/" target="_blank">9. Colmar Academy</a></h2>
-<h3><a href="https://esteecodes.github.io/bootstrap5-Hebrew-blog-rtl/" target="_blank">8. Excursion Project</a></h3>
-<h3><a href="https://esteecodes.github.io/bootstrap5-Hebrew-blog-rtl/" target="_blank">7.1. Tea Cozy</a></h3>
-<h3><a href="https://esteecodes.github.io/bootstrap5-Hebrew-blog-rtl/" target="_blank">7. Flexbox To Do App</a></h3>
-<h3><a href="https://esteecodes.github.io/bootstrap5-Hebrew-blog-rtl/" target="_blank">6.1. Project Fotomatic</a></h3>
-<h3><a href="https://esteecodes.github.io/bootstrap5-Hebrew-blog-rtl/" target="_blank">6. Tsunami Coffee</a></h3>
-<h3><a href="https://esteecodes.github.io/bootstrap5-Hebrew-blog-rtl/" target="_blank">5.1. Broadway</a></h3>
-<h3><a href="https://esteecodes.github.io/bootstrap5-Hebrew-blog-rtl/" target="_blank">5. The Box Model Davie's Burgers</a></h3>
-<h3><a href="https://esteecodes.github.io/bootstrap5-Hebrew-blog-rtl/" target="_blank">4.1. Typography</a></h3>
-<h3><a href="https://esteecodes.github.io/bootstrap5-Hebrew-blog-rtl/" target="_blank">4. Paint Store</a></h3>
-<h3><a href="https://esteecodes.github.io/bootstrap5-Hebrew-blog-rtl/" target="_blank">3. Dasmoto's Arts & Crafts</a></h3>
-<h3><a href="https://esteecodes.github.io/bootstrap5-Hebrew-blog-rtl/" target="_blank">2. Olivia Woodruff Portfolio</a></h3>
-<h3><a href="https://esteecodes.github.io/bootstrap5-Hebrew-blog-rtl/" target="_blank">1. Fashion Blog - my versiaon, responsive</a></h3>
+<h2><a href="https://esteecodes.github.io/Build-a-Website-with-HTML-CSS-and-Github-Pages-CodeCademy/9-Colmar-Academy/" target="_blank">9. Colmar Academy</a></h2>
+<h3><a href="https://esteecodes.github.io/Build-a-Website-with-HTML-CSS-and-Github-Pages-CodeCademy/7-pt1-Tea-Cozy/">7.1. Tea Cozy</a></h3>
+<h3><a href="https://esteecodes.github.io/Build-a-Website-with-HTML-CSS-and-Github-Pages-CodeCademy/7-Flexbox-To-Do%20App/" target="_blank">7. Flexbox To Do App</a></h3>
+<h3><a href="https://esteecodes.github.io/Build-a-Website-with-HTML-CSS-and-Github-Pages-CodeCademy/6-Tsunami-Coffee/" target="_blank">6. Tsunami Coffee</a></h3>
+<h3><a href="https://esteecodes.github.io/Build-a-Website-with-HTML-CSS-and-Github-Pages-CodeCademy/5-pt1-Broadway/" target="_blank">5.1. Broadway</a></h3>
+<h3><a href="https://esteecodes.github.io/Build-a-Website-with-HTML-CSS-and-Github-Pages-CodeCademy/5-The-Box-Model-Davie's-Burgers/" target="_blank">5. The Box Model Davie's Burgers</a></h3>
+<h3><a href="https://esteecodes.github.io/Build-a-Website-with-HTML-CSS-and-Github-Pages-CodeCademy/4-pt1-Typography/" target="_blank">4.1. Typography</a></h3>
+<h3><a href="https://esteecodes.github.io/Build-a-Website-with-HTML-CSS-and-Github-Pages-CodeCademy/4-Paint-Store/" target="_blank">4. Paint Store</a></h3>
+<h3><a href="https://esteecodes.github.io/Build-a-Website-with-HTML-CSS-and-Github-Pages-CodeCademy/3-Dasmoto's-Arts-&-Crafts/" target="_blank">3. Dasmoto's Arts & Crafts</a></h3>
+<h3><a href="https://esteecodes.github.io/Build-a-Website-with-HTML-CSS-and-Github-Pages-CodeCademy/2-Olivia-Woodruff-Portfolio/" target="_blank">2. Olivia Woodruff Portfolio</a></h3>
+<h3><a href="https://esteecodes.github.io/Build-a-Website-with-HTML-CSS-and-Github-Pages-CodeCademy/1-Fashion-Blog-my-ver-responsive/" target="_blank">1. Fashion Blog - my versiaon, responsive</a></h3>
 
 <h3>Connect with me on Social Media ↓</h3>
 <br/>
