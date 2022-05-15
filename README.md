@@ -2,7 +2,7 @@
 
 <p> Here I am adding the projects that I completed <br> as part of my codecademy course - Jun 16, 2020</p>
 
-<h2><a href="https://esteecodes.github.io/Colmar-Academy/" target="_blank">9. Colmar Academy -= moved to a seperate Repo</a></h2>
+<h2><a href="https://esteecodes.github.io/Colmar-Academy/" target="_blank">9. Colmar Academy - moved to a seperate Repo</a></h2>
 <h3><a href="https://esteecodes.github.io/Build-a-Website-with-HTML-CSS-and-Github-Pages-CodeCademy/7-pt1-Tea-Cozy/">7.1. Tea Cozy</a></h3>
 <h3><a href="https://esteecodes.github.io/Build-a-Website-with-HTML-CSS-and-Github-Pages-CodeCademy/7-Flexbox-To-Do%20App/" target="_blank">7. Flexbox To Do App</a></h3>
 <h3><a href="https://esteecodes.github.io/Build-a-Website-with-HTML-CSS-and-Github-Pages-CodeCademy/6-Tsunami-Coffee/" target="_blank">6. Tsunami Coffee</a></h3>
